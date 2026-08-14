@@ -159,5 +159,15 @@
       "You have not committed the relevant changes yet!"
     ],
     "status": "Incomplete"
+  },
+  {
+    "exercise_name": "ignoring-somethings",
+    "started_at": 1786710480.844297,
+    "completed_at": 1786710486.085969,
+    "comments": [
+      "You should be using ** to match all subfolders to ignore runaway.txt.",
+      "You have not committed the relevant changes yet!"
+    ],
+    "status": "Incomplete"
   }
 ]
