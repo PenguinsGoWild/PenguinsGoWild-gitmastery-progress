@@ -421,5 +421,14 @@
       "You still have uncommitted changes. Commit them first on the appropriate branch first!"
     ],
     "status": "Incomplete"
+  },
+  {
+    "exercise_name": "side-track",
+    "started_at": 1787752573.443435,
+    "completed_at": 1787752576.611639,
+    "comments": [
+      "You have not fixed the greet function in greet.py"
+    ],
+    "status": "Incomplete"
   }
 ]
